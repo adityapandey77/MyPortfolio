@@ -13,8 +13,8 @@ function Footer() {
           <a href="https://www.instagram.com/pawn_predator/" target={"blank"} title="Instagram">
             <i className="fab fa-instagram"></i>
           </a>
-          <a href="https://x.com/IT04ADITYASAGA1" target={"blank"} title="Twitter">
-            <i className="fab fa-twitter"></i>
+          <a href="https://www.linkedin.com/in/aditya-sagar-pandey-036719224/" target={"blank"} title="Twitter">
+            <i className="fab fa-linkedin"></i>
           </a>
         </div>
         <p className="copyright">
