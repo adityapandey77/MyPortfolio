@@ -37,7 +37,7 @@ function Projects() {
     },
     {
       title: "Project 6",
-      img: "/projects/6.png",
+      img: "myImg.jpg",
       gLink: "https://github.com/yashk9293/Stopwatch",
       lLink: "https://yashk9293.github.io/Stopwatch/",
     },
