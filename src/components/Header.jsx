@@ -34,7 +34,7 @@ function Header() {
          { /*<a className="link" href="#experiences">
             Experience
           </a>*/}
-           <a className="link" href="https://drive.google.com/file/d/1nHJnRbt-UwRvjzm5Dphomlf_3xCfvhQf/view?usp=drive_link" target="_blank">
+           <a className="link" href="https://drive.google.com/file/d/1nHJnRbt-UwRvjzm5Dphomlf_3xCfvhQf/view?usp=sharing" target="_blank">
             Resume
           </a>
           <a className="link" href="#projects">
